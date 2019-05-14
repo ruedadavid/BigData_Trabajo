@@ -1,3 +1,3 @@
 # BigData_Trabajo
 
-Ver descripción en archivo de presentación
+Ver descripción en Index.ipynb
